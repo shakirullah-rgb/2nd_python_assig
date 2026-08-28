@@ -1,2 +1,13 @@
-# 2nd_python_assig
-this repository contain python topics like: Arithmetic Operators, Logical Operators, Assigment Operators, Realational Operators, Membership Operators, identity Operators, and Modules.
+# Python Assignment 2
+
+This repository contains my second Python assignment completed during the NAVTTC Data Analyst with Python course.
+
+## Topics Covered
+
+- Arithmetic Operators
+- Logical Operators
+- Assignment Operators
+- Relational Operators
+- Membership Operators
+- Identity Operators
+- Modules
